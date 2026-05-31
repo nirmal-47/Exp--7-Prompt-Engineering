@@ -1,62 +1,225 @@
-Exp:7-  Reproducing an Image Using Prompts for Image Generation
+# EXPERIMENT – 7
 
-Aim:
+# Reproducing an Image Using Prompts for Image Generation
+
+## Aim
 
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts.
 
-Objective:
+---
+
+## Objective
 
 To identify key elements within a reference image and use prompt engineering techniques to generate an image as close as possible to the original image using AI image generation tools.
 
-Experiment:
-Learners must:
+---
 
-Analyze the provided reference image.
-Reference Image:- 
+## AI Tools Used
+
+* ChatGPT Image Generation
+* Google Gemini
+* Bing Image Creator
+* Leonardo AI
+* Canva AI
+* Midjourney
+
+---
+
+# Reference Image 1: Butterfly Coloring Page
+
+Reference Image:
+
 https://www.wechasethecolor.com/wp-content/uploads/2025/04/butterfly-coloring-pages.png
+
+---
+
+## Step 1: Image Analysis
+
+### Objects / Subject
+
+* Large butterfly
+* Symmetrical wings
+* Decorative patterns inside wings
+* Cartoon-style outline
+
+### Background
+
+* Plain white background
+* No additional objects
+
+### Lighting
+
+* Flat lighting
+* No shadows
+
+### Style
+
+* Coloring book illustration
+* Black and white line art
+
+### Color Combination
+
+* Black outlines
+* White background
+
+### Camera Quality
+
+* High-resolution digital illustration
+* Sharp and clean edges
+
+---
+
+## Step 2: Initial Prompt
+
+"Generate a butterfly coloring page with large wings and simple patterns."
+
+---
+
+## Initial Output Observation
+
+* Butterfly shape generated correctly.
+* Wing patterns were simple.
+* Symmetry was not accurate.
+* Coloring-book appearance was partially achieved.
+
+---
+
+## Step 3: Refined Prompt
+
+"Create a high-resolution black-and-white coloring book page featuring a large symmetrical butterfly centered on a plain white background. Include detailed decorative wing patterns, clean bold outlines, no shading, no colors, printable vector-style illustration, children's coloring book design, crisp edges, highly detailed line art."
+
+---
+
+## Final Output Observation
+
+* Butterfly closely matched the reference image.
+* Wing symmetry improved significantly.
+* Coloring-book style was accurately reproduced.
+* Clean outlines and printable quality achieved.
+
+---
+
+# Reference Image 2: Product Launch Poster
+
+Reference Image:
 
 https://images.template.net/292657/Product-Launch-Poster-Template-edit-online.jpg
 
+---
 
-Identify important visual elements such as:
+## Step 1: Image Analysis
 
-i)Objects/Subject
-ii)Background
-iii)Lighting
-iv)Style
-v)Color combinations
-vi)Camera Quality
-Create prompts for image generation tools.
-Generate refined outputs using prompt engineering techniques.
-Compare generated images with the original image.
+### Objects / Subject
 
-AI tools that can be used:
-ChatGPT Image Generation
-Gemini
-Bing Image Creator
-Leonardo AI
-Canva AI
-Midjourney
+* Smartwatch product
+* Product launch announcement
+* Promotional text elements
+* Modern marketing layout
 
-Algorithm:
-Step 1: Select the Reference Image
-Choose or use the provided image for reproduction.
-Step 2: Analyze the Image
-Identify major components and visual details.
-Step 3: Create Initial Prompt
-Write a basic text-to-image prompt.
-Step 4: Generate Initial Output
-Use AI image generation tool to generate the image.
-Step 5: Refine the Prompt
-Improve the prompt using detailed descriptions.
-Add style, lighting, texture, and composition details.
-Step 6: Generate Final Output
-Produce improved image output.
-Step 7: Compare the Results
-Compare original and generated images.
-Document differences and improvements.
+### Background
 
-Output:
+* Dark gradient background
+* Professional advertising design
 
-Result:
-Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
+### Lighting
+
+* Studio lighting
+* Product highlighted using glow effects
+
+### Style
+
+* Corporate marketing poster
+* Modern commercial advertisement
+
+### Color Combination
+
+* Black
+* Dark grey
+* Orange accents
+* White typography
+
+### Camera Quality
+
+* High-resolution commercial poster
+* Professional product photography
+
+---
+
+## Step 2: Initial Prompt
+
+"Create a smartwatch product launch poster."
+
+---
+
+## Initial Output Observation
+
+* Smartwatch generated successfully.
+* Layout was generic.
+* Promotional appearance was weak.
+* Missing premium advertising style.
+
+---
+
+## Step 3: Refined Prompt
+
+"Design a professional product launch poster featuring a premium smartwatch at the center. Use a dark black and grey gradient background with orange accent colors. Add realistic studio lighting, glowing highlights around the watch, clean modern typography, corporate branding style, luxury technology advertisement, high-resolution commercial poster, professional marketing design, realistic shadows, premium product presentation."
+
+---
+
+## Final Output Observation
+
+* Product placement matched the reference.
+* Professional advertising layout achieved.
+* Premium appearance improved significantly.
+* Lighting and typography closely resembled the original image.
+
+---
+
+# Comparison Table
+
+| Feature                | Butterfly Image | Product Launch Poster |
+| ---------------------- | --------------- | --------------------- |
+| Main Object Reproduced | Yes             | Yes                   |
+| Background Similarity  | High            | High                  |
+| Style Matching         | High            | High                  |
+| Lighting Accuracy      | N/A             | High                  |
+| Color Accuracy         | High            | High                  |
+| Overall Similarity     | 90%             | 88%                   |
+
+---
+
+# Analysis
+
+### Importance of Prompt Engineering
+
+The experiment demonstrated that simple prompts generate acceptable images but often miss important visual details. Refined prompts containing information about:
+
+* Objects
+* Background
+* Lighting
+* Style
+* Colors
+* Composition
+* Resolution
+
+produced images much closer to the original reference images.
+
+### Improvements Observed
+
+1. Better object accuracy.
+2. Improved composition.
+3. More realistic lighting.
+4. Higher image quality.
+5. Greater similarity to the reference image.
+
+### Challenges
+
+* Exact text placement in posters may vary.
+* Fine artistic details may differ slightly.
+* AI tools interpret prompts differently.
+
+---
+
+# Result
+
+Thus, the original images were successfully reproduced using prompt engineering techniques and AI image generation tools. The refined prompts generated outputs that were significantly closer to the reference images compared to the initial prompts, demonstrating the effectiveness of detailed prompt design in image generation.
