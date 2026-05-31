@@ -217,9 +217,3 @@ produced images much closer to the original reference images.
 * Exact text placement in posters may vary.
 * Fine artistic details may differ slightly.
 * AI tools interpret prompts differently.
-
----
-
-# Result
-
-Thus, the original images were successfully reproduced using prompt engineering techniques and AI image generation tools. The refined prompts generated outputs that were significantly closer to the reference images compared to the initial prompts, demonstrating the effectiveness of detailed prompt design in image generation.
